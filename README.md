@@ -59,7 +59,8 @@ For the annotation session we only provided selected pairs with high similarity 
 
 ## Tools
 
-
+## Outputs  
+- Forthcoming book chapter in *Emergent Histories: New Work in the Digital History of Industry and Collections from the Congruence Engine Project*
 
 ## Key initial findings
 We found  fine-tuning models on historical data substantially improved record linkage. The links suggested by historically-aware models were more likely to produce meaningful connections (that is, point to similar items) across collections according to our annotators. Interestingly, we also found that linking based on text was slightly more successful than based on image similarity.
